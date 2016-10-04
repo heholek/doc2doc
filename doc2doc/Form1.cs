@@ -16,5 +16,10 @@ namespace doc2doc
         {
             InitializeComponent();
         }
+
+        private void chooseFolderButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
