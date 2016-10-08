@@ -122,6 +122,7 @@
             this.Controls.Add(this.chooseFolderButton);
             this.MaximizeBox = false;
             this.Name = "mainForm";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Text = "doc2doc";
             this.ResumeLayout(false);
             this.PerformLayout();
